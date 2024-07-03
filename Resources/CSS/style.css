@@ -1,0 +1,67 @@
+#gordon {
+    width: 200px;
+}
+.attraction-image {
+    width: 200px;
+    border-radius: 10px;
+}
+body {
+    background-image: linear-gradient(to top left, aqua, #0be6b7);
+}
+nav ul {
+    background-color: tomato;
+    border-style: solid;
+    border-color: rgb(226, 62, 62);
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 12.1%;
+  }
+  nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: papayawhip;
+  }
+table, th, td {
+    border: 2px solid gold;
+    border-collapse: collapse;
+    font-size: 50px;
+    padding: 10px;
+
+}
+th, td {
+    vertical-align: top;
+    text-align: center;
+}
+
+.food_img {
+  width: 500px;
+  border-radius: 10px;
+}
+.selected {
+  color: black;
+  text-decoration-line: underline;
+}
+a {
+  text-decoration: none;
+}
+
+
+* {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: bold;
+}
